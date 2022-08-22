@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devtumi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end web development
+- 🌱 I’m currently learning fullstack web development
 - 💞️ I’m looking to collaborate on website designs
 - 📫 How to reach me @fun_sized_surv on twitter and insta
 
